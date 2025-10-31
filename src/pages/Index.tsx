@@ -31,7 +31,7 @@ const Index = () => {
             className="bg-primary hover:bg-primary/90 text-primary-foreground font-medium px-8 py-6 text-lg transition-all duration-300 shadow-md hover:shadow-lg"
           >
             <a 
-              href="https://seat-integral-uses-manufactured.trycloudflare.com" 
+              href="https://marc-happy-archives-shoppers.trycloudflare.com" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2"
